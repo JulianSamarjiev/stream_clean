@@ -156,8 +156,8 @@ img {
 
 /* service section */
 #service {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 #service h2 {
   border-left: 2px solid #f1b806;
@@ -179,15 +179,18 @@ img {
 #service p {
 	font-weight: 100;
 }
-.services-description {
+.services-list {
 	padding-top: 50px;
-	text-align: center;
+}
+.services-description {
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 /* about section */
 #about {
-  padding-top: 60px;
-  padding-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 60px;
 }
 #about h2 {
   border-right: 2px solid #f1b806;
