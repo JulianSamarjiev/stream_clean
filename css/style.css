@@ -137,10 +137,8 @@ img {
   border-radius: 0px;
   color: #444;
   font-family: 'Raleway', sans-serif;
-  font-weight: bold;
-  font-size: 16px;
+  font-size: 14px;
   padding-top: 14px;
-  width: 200px;
   padding: 20px;
   margin-top: 20px;
    transition: all 0.4s ease-in-out;
@@ -190,7 +188,7 @@ img {
 	border-right: 2px solid #f1b806;
   display: inline-block;
   padding: 10px 20px 10px 10px;
-	margin-bottom: 60px;	
+	margin-bottom: 60px;
 }
 
 /* about section */
@@ -273,6 +271,9 @@ footer span {
     padding-left: 40px;
     line-height: 30px;
   }
+	#home {
+		padding-top: 160px;
+	}
 }
 
 /* media 360 */
